@@ -10,8 +10,12 @@ const Ecotable = () => {
 				</thead>
 				<tbody>
 					<tr>
-						<td>Fishy</td>
-						<td>N/A</td>
+						<td>Salmon</td>
+						<td>
+						<div className="imageContainer">
+							<img src="salmon.jpg" alt="salmon" />
+						</div>
+						</td>
 						<td>Biotic</td>
 					</tr>
 					<tr>
