@@ -1,0 +1,72 @@
+const Ecotable = () => {
+    return (  
+        <table className="styled-table">
+				<thead>
+					<tr>
+						<th>Name</th>
+						<th>Picture</th>
+						<th>Type</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>Fishy</td>
+						<td>N/A</td>
+						<td>Biotic</td>
+					</tr>
+					<tr>
+						<td>Lorem.</td>
+						<td>Lorem.</td>
+						<td>Lorem.</td>
+					</tr>
+					<tr>
+						<td>Lorem.</td>
+						<td>Lorem.</td>
+						<td>Lorem.</td>
+					</tr>
+					<tr>
+						<td>Lorem.</td>
+						<td>Lorem.</td>
+						<td>Lorem.</td>
+					</tr>
+					<tr>
+						<td>Lorem.</td>
+						<td>Lorem.</td>
+						<td>Lorem.</td>
+					</tr>
+					<tr>
+						<td>Lorem.</td>
+						<td>Lorem.</td>
+						<td>Lorem.</td>
+					</tr>
+					<tr>
+						<td>Lorem.</td>
+						<td>Lorem.</td>
+						<td>Lorem.</td>
+					</tr>
+					<tr>
+						<td>Lorem.</td>
+						<td>Lorem.</td>
+						<td>Lorem.</td>
+					</tr>
+					<tr>
+						<td>Lorem.</td>
+						<td>Lorem.</td>
+						<td>Lorem.</td>
+					</tr>
+					<tr>
+						<td>Lorem.</td>
+						<td>Lorem.</td>
+						<td>Lorem.</td>
+					</tr>
+					<tr>
+						<td>Lorem.</td>
+						<td>Lorem.</td>
+						<td>Lorem.</td>
+					</tr>
+				</tbody>
+			</table>
+    );
+}
+ 
+export default Ecotable;
