@@ -1,4 +1,5 @@
 const Ecotable = () => {
+	// TODO: ADD IMAGES
     return (  
         <table className="styled-table">
 				<thead>
@@ -12,26 +13,29 @@ const Ecotable = () => {
 					<tr>
 						<td>Salmon</td>
 						<td>
-						<div className="imageContainer">
+						<div className="image-container">
 							<img src="salmon.jpg" alt="salmon" />
 						</div>
 						</td>
 						<td>Biotic</td>
 					</tr>
 					<tr>
-						<td>Lorem.</td>
-						<td>Lorem.</td>
-						<td>Lorem.</td>
+						<td>Shark</td>
+						<td><div className="image-container"><img src="shark.jpg" alt="shark" /></div></td>
+						<td>Biotic</td>
 					</tr>
 					<tr>
-						<td>Lorem.</td>
-						<td>Lorem.</td>
-						<td>Lorem.</td>
+						<td>Coral</td>
+						<td><div className="image-container">
+						<img src="coral.jpg" alt="coral" />
+						</div>
+						</td>
+						<td>Biotic</td>
 					</tr>
 					<tr>
-						<td>Lorem.</td>
-						<td>Lorem.</td>
-						<td>Lorem.</td>
+						<td>Dolphin</td>
+						<td><div className="image-container"><img src="dolphin.jpg" alt="dolphin" /></div></td>
+						<td>Biotic</td>
 					</tr>
 					<tr>
 						<td>Lorem.</td>
