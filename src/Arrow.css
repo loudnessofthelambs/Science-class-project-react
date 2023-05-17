@@ -1,0 +1,22 @@
+.arrow {
+	position: relative;
+}
+
+
+.rectangle {
+	position: absolute;
+	width: 100px;
+	height: 20px;
+	top: 30px;
+	left: -100px;
+	background-color: cyan;
+}
+.triangle {
+position: absolute;
+width: 0; 
+height: 0; 
+border-top: 40px solid transparent;
+border-bottom: 40px solid transparent;
+
+border-left: 40px solid cyan;
+}
