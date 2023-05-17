@@ -162,6 +162,46 @@ const Ecotable = () => {
           <td><div className="image-container"><img src="pelican.jpg" alt="pelican" /></div></td>
           <td>Biotic</td>
         </tr>
+        <tr>
+          <td>Sand</td>
+          <td><div className="image-container"><img src="sand.jpg" alt="sand" /></div></td>
+          <td>Abiotic</td>
+        </tr>
+        <tr>
+          <td>Volcanos</td>
+          <td><div className="image-container"><img src="volcano.jpg" alt="volcano" /></div></td>
+          <td>Abiotic</td>
+        </tr>
+        <tr>
+          <td>Ocean floor</td>
+          <td><div className="image-container"><img src="floor.jpg" alt="floor" /></div></td>
+          <td>Abiotic</td>
+        </tr>
+        <tr>
+          <td>Water</td>
+          <td><div className="image-container"><img src="water.jpg" alt="water" /></div></td>
+          <td>Abiotic</td>
+        </tr>
+        <tr>
+          <td>Stone</td>
+          <td><div className="image-container"><img src="stone.jpg" alt="stone" /></div></td>
+          <td>Abiotic</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td><div className="image-container"><img src="" alt="" /></div></td>
+          <td>Abiotic</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td><div className="image-container"><img src="" alt="" /></div></td>
+          <td>Abiotic</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td><div className="image-container"><img src="" alt="" /></div></td>
+          <td>Abiotic</td>
+        </tr>
       </tbody>
     </table>
   );
