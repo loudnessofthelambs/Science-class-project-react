@@ -1,5 +1,4 @@
 import CaseStudyTable from "./CaseStudyTable";
-
 const CaseStudy = () => {
 	return (  
 		<>
