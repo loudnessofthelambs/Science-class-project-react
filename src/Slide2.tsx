@@ -1,6 +1,11 @@
+import CaseStudyTable from "./CaseStudyTable";
+
 const CaseStudy = () => {
 	return (  
-		<h1>Test 2</h1>
+		<>
+			<h1>How a whale survives</h1>
+			<CaseStudyTable />
+		</>
 	);
 }
  
