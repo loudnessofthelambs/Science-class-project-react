@@ -47,39 +47,39 @@ const Ecotable = () => {
           <td>Biotic</td>
         </tr>
         <tr>
-          <td>Lorem.</td>
-          <td>Lorem.</td>
-          <td>Lorem.</td>
+          <td>Whale</td>
+          <td><div className="image-container"><img src="whale.jpg" alt="whale" /></div></td>
+          <td>Biotic</td>
         </tr>
         <tr>
-          <td>Lorem.</td>
-          <td>Lorem.</td>
-          <td>Lorem.</td>
+          <td>Turtle</td>
+          <td><div className="image-container"><img src="turtle.jpg" alt="turtle" /></div></td>
+          <td>Biotic</td>
         </tr>
         <tr>
-          <td>Lorem.</td>
-          <td>Lorem.</td>
-          <td>Lorem.</td>
+          <td>Octopus</td>
+          <td><div className="image-container"><img src="octopus.jpg" alt="octopus" /></div></td>
+          <td>Biotic</td>
         </tr>
         <tr>
-          <td>Lorem.</td>
-          <td>Lorem.</td>
-          <td>Lorem.</td>
+          <td>Sponge</td>
+          <td><div className="image-container"><img src="sponge.jpg" alt="sponge" /></div></td>
+          <td>Biotic</td>
         </tr>
         <tr>
-          <td>Lorem.</td>
-          <td>Lorem.</td>
-          <td>Lorem.</td>
+          <td>Crab</td>
+          <td><div className="image-container"><img src="crab.jpg" alt="crab" /></div></td>
+          <td>Biotic</td>
         </tr>
         <tr>
-          <td>Lorem.</td>
-          <td>Lorem.</td>
-          <td>Lorem.</td>
+          <td>Starfish</td>
+          <td><div className="image-container"><img src="starfish.jpg" alt="starfish" /></div></td> {/* 10 so far*/}
+          <td>Biotic</td>
         </tr>
         <tr>
-          <td>Lorem.</td>
-          <td>Lorem.</td>
-          <td>Lorem.</td>
+          <td>Seaweed</td>
+          <td><div className="image-container"><img src="seaweed.jpg" alt="seaweed" /></div></td>
+          <td>Biotic</td>
         </tr>
       </tbody>
     </table>
