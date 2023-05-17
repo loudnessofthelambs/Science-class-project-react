@@ -188,18 +188,18 @@ const Ecotable = () => {
           <td>Abiotic</td>
         </tr>
         <tr>
-          <td></td>
-          <td><div className="image-container"><img src="" alt="" /></div></td>
+          <td>Dirt</td>
+          <td><div className="image-container"><img src="soil.jpg" alt="soil" /></div></td>
           <td>Abiotic</td>
         </tr>
         <tr>
-          <td></td>
-          <td><div className="image-container"><img src="" alt="" /></div></td>
+          <td>Sea shells</td>
+          <td><div className="image-container"><img src="shell.jpg" alt="shell" /></div></td>
           <td>Abiotic</td>
         </tr>
         <tr>
-          <td></td>
-          <td><div className="image-container"><img src="" alt="" /></div></td>
+          <td>Canyons</td>
+          <td><div className="image-container"><img src="canyon.jpg" alt="canyon" /></div></td>
           <td>Abiotic</td>
         </tr>
       </tbody>
