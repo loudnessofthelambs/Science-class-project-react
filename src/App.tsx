@@ -9,10 +9,10 @@ function App() {
   const [slide, setSlide] = useState(0);
 
   const handleClick = (event: any) => {
-    if (event.keyCode == 39) {
+    if (event.keyCode === 39) {
       setSlide(slide + 1)
     }
-    else if (event.keyCode == 37) {
+    else if (event.keyCode === 37) {
       setSlide(slide - 1)
     }
   }
