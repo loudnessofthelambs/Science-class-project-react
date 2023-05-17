@@ -81,6 +81,87 @@ const Ecotable = () => {
           <td><div className="image-container"><img src="seaweed.jpg" alt="seaweed" /></div></td>
           <td>Biotic</td>
         </tr>
+        <tr>
+          <td>Jellyfish</td> {/* */}
+          <td>
+            <div className="image-container">
+              <img src="jellyfish.jpg" alt="jellyfish" />
+            </div>
+          </td>
+          <td>Biotic</td>
+        </tr>
+        <tr>
+          <td>Sea Urchin</td>
+          <td>
+            <div className="image-container">
+              <img src="urchin.jpg" alt="urchin" />
+            </div>
+          </td>
+          <td>Biotic</td>
+        </tr>
+        <tr>
+          <td>Seal</td>
+          <td>
+            <div className="image-container">
+              <img src="seal.jpg" alt="seal" />
+            </div>
+          </td>
+          <td>Biotic</td>
+        </tr>
+        <tr>
+          <td>Kelp</td>
+          <td>
+            <div className="image-container">
+              <img src="kelp.jpg" alt="kelp" />
+            </div>
+          </td>
+          <td>Biotic</td>
+        </tr>
+        <tr>
+          <td>Clownfish</td>
+          <td><div className="image-container"><img src="clown.jpg" alt="clownfish" /></div></td>
+          <td>Biotic</td>
+        </tr>
+        <tr>
+          <td>Algae</td>
+          <td><div className="image-container"><img src="algae.jpg" alt="algae" /></div></td>
+          <td>Biotic</td>
+        </tr>
+        <tr>
+          <td>Eel</td>
+          <td><div className="image-container"><img src="eel.jpg" alt="eel" /></div></td>
+          <td>Biotic</td>
+        </tr>
+        <tr>
+          <td>Catfish</td>
+          <td><div className="image-container"><img src="catfish.jpg" alt="catfish" /></div></td>
+          <td>Biotic</td>
+        </tr>
+        <tr>
+          <td>Sea horse</td>
+          <td><div className="image-container"><img src="horse.jpg" alt="sea horse" /></div></td>
+          <td>Biotic</td>
+        </tr>
+        <tr>
+          <td>Pufferfish</td>
+          <td><div className="image-container"><img src="puffer.jpg" alt="pufferfish" /></div></td>
+          <td>Biotic</td>
+        </tr>
+        <tr>
+          <td>Lobster</td>
+          <td><div className="image-container"><img src="lobster.jpg" alt="lobster" /></div></td>
+          <td>Biotic</td>
+        </tr>
+        <tr>
+          <td>Herring</td>
+          <td><div className="image-container"><img src="herring.jpg" alt="herring" /></div></td>
+          <td>Biotic</td>
+        </tr>
+        <tr>
+          <td>Pelican</td>
+          <td><div className="image-container"><img src="pelican.jpg" alt="pelican" /></div></td>
+          <td>Biotic</td>
+        </tr>
       </tbody>
     </table>
   );
