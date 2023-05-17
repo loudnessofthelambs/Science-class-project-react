@@ -1,7 +1,11 @@
-import Arrow from './Arrow';
+import { FoodChain } from "./FoodChain";
 
 const Slide3 = () => {
-	return ( null);
-}
- 
+    return (
+        <>
+            <FoodChain image={"otter.jpg"} height={50} width={50} />
+        </>
+    );
+};
+
 export default Slide3;
