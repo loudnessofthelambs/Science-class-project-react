@@ -11,7 +11,7 @@ const Ecotable = () => {
             </thead>
             <tbody>
                 <tr>
-                    <td>Salmon</td>
+                    <td>Fish</td>
                     <td>
                         <div className="image-container">
                             <img src="salmon.jpg" alt="salmon" />
