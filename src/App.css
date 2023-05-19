@@ -68,3 +68,13 @@
   width: 1000px;
   height: 500px
 }
+.trapezoid {
+	border-bottom: 50px solid #555;
+	border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+	height: 0;
+	width: 125px;
+}
+.image-container h6 {
+    color:#26ff00
+}

@@ -4,6 +4,7 @@ import "./App.css";
 import Slide1 from "./Slide1";
 import Slide2 from "./Slide2";
 import Slide3 from "./Slide3";
+import Slide4 from "./Slide4";
 function App() {
     const [slide, setSlide] = useState(0);
 
@@ -22,6 +23,8 @@ function App() {
                 return <Slide2 />;
             case 2:
                 return <Slide3 />;
+            case 3:
+                return <Slide4 />
         }
     };
     document.addEventListener("keydown", handleClick);
