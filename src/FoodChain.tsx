@@ -10,6 +10,7 @@ export function FoodChain(props: any) {
                     alt=""
                     style={{ height: height, width: width, position: "absolute",  top: 0 ,left:0}}
                 />
+                <h6>test</h6>
             </div>
 			<div className="arrow" style={{top: 10, left: 210}}>
                 <div className="rectangle"></div>
