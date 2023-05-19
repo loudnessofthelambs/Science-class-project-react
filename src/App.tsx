@@ -5,8 +5,9 @@ import Slide1 from "./Slide1";
 import Slide2 from "./Slide2";
 import Slide3 from "./Slide3";
 import Slide4 from "./Slide4";
+import Home from "./Slide0";
 function App() {
-    const [slide, setSlide] = useState(0);
+    const [slide, setSlide] = useState(-1);
 
     const handleClick = (event: any) => {
         if (event.keyCode === 39) {
@@ -17,6 +18,8 @@ function App() {
     };
     const RenderSlide = () => {
         switch (slide) {
+            case -1:
+                return <Home />
             case 0:
                 return <Slide1 />;
             case 1:
