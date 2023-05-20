@@ -10,7 +10,6 @@ export function FoodChain(props: any) {
                     alt=""
                     style={{ height: height, width: width, position: "absolute",  top: 0 ,left:0}}
                 />
-                <h6>seaweed</h6>
             </div>
 			<div className="arrow" style={{top: 10, left: 210}}>
                 <div className="rectangle"></div>
@@ -23,7 +22,6 @@ export function FoodChain(props: any) {
                     alt=""
                     style={{ height: height, width: width, position: "absolute",  top: 0, left: 250}}
                 />
-                <h6>Sea urchin</h6>
             </div>
 			<div className="arrow" style={{top: 10, left: 470}}>
                 <div className="rectangle"></div>
@@ -36,7 +34,6 @@ export function FoodChain(props: any) {
                     alt=""
                     style={{ height: height, width: width, position: "absolute",  top: 0, left: 525}}
                 />
-                <h6>Otter</h6>
             </div>
 			<div className="arrow" style={{top: 10, left: 750}}>
                 <div className="rectangle"></div>
@@ -48,7 +45,6 @@ export function FoodChain(props: any) {
                     alt=""
                     style={{ height: height, width: width, position: "absolute",  top: 0, left: 800}}
                 />
-                <h6>Shark</h6>
             </div>
             <div style={{position: "relative", top: 110}}>
             <div className="image-container">

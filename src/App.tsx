@@ -6,9 +6,12 @@ import Slide2 from "./Slide2";
 import Slide3 from "./Slide3";
 import Slide4 from "./Slide4";
 import Home from "./Slide0";
+import Slide6 from "./Slide6";
+
+
 function App() {
 
-    const [slide, setSlide] = useState(-1);
+    const [slide, setSlide] = useState(3);
 
     const RenderSlide = () => {
         switch (slide) {
@@ -20,6 +23,10 @@ function App() {
                 return <Slide2 />;
             case 2:
                 return <Slide3 />;
+            case 3:
+                return <Slide4 />
+            case 5:
+                return <Slide6 />
         }
     };
     useEffect(() => {
