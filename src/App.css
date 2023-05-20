@@ -74,9 +74,9 @@
     border-bottom: 100px solid #ff0000;
     border-left: 50px solid transparent;
     border-right: 50px solid transparent;
-    transform: perspective(100px) rotateX(45deg);
+    transform: perspective(100px) rotateX(15deg);
 }
   
-.image-container h6 {
-    color:#26ff00
+.image-container p {
+    font-size: small;
 }
