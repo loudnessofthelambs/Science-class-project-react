@@ -7,6 +7,7 @@ import Slide3 from "./Slide3";
 import Slide4 from "./Slide4";
 import Home from "./Slide0";
 import Slide6 from "./Slide6";
+import Slide7 from "./Slide7";
 
 
 function App() {
@@ -27,6 +28,8 @@ function App() {
                 return <Slide4 />
             case 5:
                 return <Slide6 />
+            case 6:
+                return <Slide7 />
         }
     };
     useEffect(() => {
