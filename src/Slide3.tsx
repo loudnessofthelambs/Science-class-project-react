@@ -16,7 +16,7 @@ const Slide3 = () => {
 			<div className="chain-container" style={{position:"fixed"}}>
 				<FoodChain {...foodChain4} {...foodChain3} {...foodChain1} {...foodChain2} height={100} width={100} />
 			</div>
-			<button onClick={handleClick}>See animal names</button>
+			<button onClick={handleClick} style={{position:"relative", top:470}}>See animal names</button>
 			</>
 		);
 	}

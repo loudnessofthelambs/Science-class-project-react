@@ -23,7 +23,7 @@ const Slide6 = () => {
                 <td>
                     <p>- Banning single use plastic like straw because some aniamls might choke on them.</p>
                     <p>- Help get rid of invasive species, so they don't have kill the native fish.</p>
-                    <p>- Sustainable fishing,so we don't overfish the fish and causes break down in food chains.  </p>
+                    <p>- Sustainable fishing, so the fish don't go extinct and cause break downs in the food chain.  </p>
                     <p>- Creating human-free ocean zones, to prevent humans from mining or fishing there. </p>
                 </td>
                 <td>

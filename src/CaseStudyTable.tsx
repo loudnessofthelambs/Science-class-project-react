@@ -13,7 +13,7 @@ const CaseStudyTable = () => {
             <tbody>
                 <tr>
                     <td>
-                        They mainly get their water from their food/pray, but
+                        They mainly get their water from their food/prey, but
                         they can occasionally drink seawater while feeding. They
                         also live in the water, and hunt in it too.
                     </td>
@@ -24,9 +24,8 @@ const CaseStudyTable = () => {
                         produced by plants such as phytoplankton.
                     </td>
                     <td>
-                        Whales normally are carnivores, eating smaller fish.
-                        They eat their prey in the water, which is also where
-                        they live.
+                        Whales are normally carnivores, eating smaller fish.
+                        They eat their prey in the water. 
                     </td>
                     <td>
                         Whales usually get their energy, like most other
@@ -34,7 +33,7 @@ const CaseStudyTable = () => {
                     </td>
                     <td>
                         Whales live in the water, in small groups of around 30
-                        whales called a pod.
+                        called a pod.
                     </td>
                 </tr>
             </tbody>

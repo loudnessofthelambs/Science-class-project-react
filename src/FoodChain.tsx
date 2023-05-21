@@ -134,7 +134,7 @@ export function FoodChain(props: any) {
                 />
             </div>
             </div>
-            <div style={{position: "relative", top: 220}}>
+            <div style={{position: "relative", top: 350}}>
             <div className="image-container">
                 <img
                     src={image13}

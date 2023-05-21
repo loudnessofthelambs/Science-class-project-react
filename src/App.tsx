@@ -12,7 +12,7 @@ import Slide7 from "./Slide7";
 
 function App() {
 
-    const [slide, setSlide] = useState(3);
+    const [slide, setSlide] = useState(-1);
 
     const RenderSlide = () => {
         switch (slide) {
