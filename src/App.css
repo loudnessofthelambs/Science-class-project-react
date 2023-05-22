@@ -79,4 +79,5 @@
   
 .image-container p {
     font-size: small;
+    z-index: 1000
 }

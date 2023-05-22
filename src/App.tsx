@@ -5,6 +5,7 @@ import Slide1 from "./Slide1";
 import Slide2 from "./Slide2";
 import Slide3 from "./Slide3";
 import Slide4 from "./Slide4";
+import Slide5 from "./Slide5";
 import Home from "./Slide0";
 import Slide6 from "./Slide6";
 import Slide7 from "./Slide7";
@@ -12,7 +13,7 @@ import Slide7 from "./Slide7";
 
 function App() {
 
-    const [slide, setSlide] = useState(-1);
+    const [slide, setSlide] = useState(4);
 
     const RenderSlide = () => {
         switch (slide) {
@@ -26,6 +27,8 @@ function App() {
                 return <Slide3 />;
             case 3:
                 return <Slide4 />
+            case 4:
+                return <Slide5 />
             case 5:
                 return <Slide6 />
             case 6:
